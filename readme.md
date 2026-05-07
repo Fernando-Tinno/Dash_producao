@@ -52,7 +52,7 @@ O dashboard oferece as seguintes análises:
 ---
 
 ## ✍️ Autor
-**Seu Nome**
+**Fernano Tinno Venceslau**
 * [LinkedIn](https://www.linkedin.com/in/fernando-tinno/)
 
 ---
