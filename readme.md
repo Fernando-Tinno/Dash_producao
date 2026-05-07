@@ -53,7 +53,6 @@ O dashboard oferece as seguintes análises:
 
 ## ✍️ Autor
 **Seu Nome**
-* [LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI)
-* [GitHub](https://github.com/SEU_USUARIO)
+* [LinkedIn](https://www.linkedin.com/in/fernando-tinno/)
 
 ---
